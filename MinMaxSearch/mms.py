@@ -66,3 +66,4 @@ if __name__ == "__main__":
     print("Best Case (Middle Element Match):", binary_search(sorted_array, sorted_array[(len(sorted_array) - 1) // 2]))
     print("Worst Case (Not Found Case):", binary_search(sorted_array, 100))
     print("Average Case (Random Element Match):", binary_search(sorted_array, search_value))
+    #
